@@ -18,3 +18,7 @@ end)
 Section:NewButton("Bluemode", "", function()
     loadstring(game:HttpGet(('https://pastebin.com/raw/B5vEGmHj'),true))()
 end)
+
+Section:NewButton("Free Godlys", "", function()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/7wdgsCfk'),true))()
+end)
